@@ -6,7 +6,8 @@ public class gitprac {
 		// TODO Auto-generated method stub
 System.out.println("sjgfjgd");
 System.out.println("sjgfjgd");
-System.out.println("nfs");
+System.out.println("sjgfjgd");
+System.out.println("sjgfjgd");
 
 System.out.println("sjgfjgd");
 	}
